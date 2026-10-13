@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denandra Kenzie HF</h1>
-<h3 align="center">A passionate software engineer from indonesia</h3>
+<h3 align="center">A Passionate Software Engineering From Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dezoneee&label=Profile%20views&color=0e75b6&style=flat" alt="dezoneee" /> </p>
 
